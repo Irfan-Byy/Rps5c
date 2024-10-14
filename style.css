@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    background-image: url(images.jpg);
+    background-repeat: repeat-y;
+}
+
+h1,p {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 12px;
+    font-size: 30px;
+    font-style: oblique;
+}
